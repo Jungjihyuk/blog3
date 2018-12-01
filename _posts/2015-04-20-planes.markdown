@@ -1,8 +1,8 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+title:  "드론 프로그래밍"
+subtitle: "드론 입문"
+author: "jh"
+avatar: "img/authors/jh.jpg"
 image: "img/a.jpg"
 date:   2015-04-20 12:12:12
 ---
