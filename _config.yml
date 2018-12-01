@@ -5,4 +5,4 @@ keywords: Modern, Blogging, Fun
 author: Wferr
 baseurl: "/blog3" # the subpath of your site, e.g. /blog/
 url: "https://jungjihyuk.github.io" # the base hostname & protocol for your site
-remote_theme : inded/Jekyll_modern-blog
+remote_theme : inded.xyz/Jekyll_modern-blog
