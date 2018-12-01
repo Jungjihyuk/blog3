@@ -2,7 +2,7 @@
 title:  "Github"
 subtitle: "원리부터 사용법까지"
 author: "jh"
-avatar: "img/authors/jh.jpg"
+avatar: "img/authors/jh2.jpg"
 image: "img/f.jpg"
 date:   2015-04-25 12:12:12
 ---
