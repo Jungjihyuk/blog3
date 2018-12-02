@@ -3,7 +3,7 @@ title: "생활코딩 CSS 수업"
 subtitle: "CSS 강의 정리"
 author: "jh"
 avatar: "img/authors/jh.jpg"
-image: "img/opentutorials.jpg"
+image: "img/open.jpg"
 date: 2018-11-01 13:00:00
 ---
 
